@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mall-web-jhb:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="mall-jianghaobo.war">
+      <element id="artifact" artifact-name="mall-web-jhb:war exploded" />
+    </root>
+  </artifact>
+</component>
